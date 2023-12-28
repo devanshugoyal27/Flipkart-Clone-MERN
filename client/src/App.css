@@ -1,0 +1,9 @@
+#remove-arrow::-webkit-outer-spin-button,
+#remove-arrow::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.my-shadow {
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+  }
