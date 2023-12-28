@@ -41,7 +41,7 @@ const Slides = ({products , title , timer}) => {
       autoPlay={false}
       swipeable={false}
       draggable={false}
-      centerMode= {true}>
+      >
     
         {
          products.map((product,i) => 
